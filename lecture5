@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta  charset ="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+     <meta http-equiv="X-VA-compatible"content="ie=edge">
+    <title> Heading paragraphs and Emmet </title>
+</head>
+<body>
+   <h1>Rohit</h1>
+   <h2>Rohit</h2>
+   <h3>Rohit</h3>
+   <h4>Rohit</h4>
+   <h5>Rohit</h5>
+   <h6>Rohit</h6> 
+     <!-- these are total h6  -->
+
+   <p>this is rohit</p> 
+   <!-- p means paragraphs -->
+</body>
+</html>

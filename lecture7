@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta  charset ="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+     <meta http-equiv="X-VA-compatible"content="ie=edge">
+    <title>List and table </title>
+</head>
+<body>
+    <!-- list -->
+    <ul>
+        <li>my name is  rohit  kumar</li>
+        <li>i am a student of MCA</li>
+        <li>i am study in kiit university</li>
+    </ul>
+
+    <ol>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet consectetur.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet consectetur.</li>
+    </ol>
+</body>
+</html>

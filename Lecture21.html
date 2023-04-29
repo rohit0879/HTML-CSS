@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta  charset ="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+     <meta http-equiv="X-VA-compatible"content="ie=edge">
+    <title> Alignment </title>
+    <style>
+         .container{
+            border: 4px solid red;
+            padding: 40px 30px;
+            width: 500px;
+            margin: auto;
+         }
+        .items{
+            border: 3px solid gray;
+            background-color: antiquewhite;
+            padding: 2px;
+            margin: 5px;
+            
+        }
+        #fruit{
+            float: left;
+            width: 40%;
+        }
+        #computer{
+            float:right;
+            width: 40%;
+        }
+        #stationary{
+            /* float: left; */
+            clear: both;
+            width: 100%;
+        }
+        h1{
+            color: blueviolet;
+            margin: auto;
+            width: 62%;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>wlecome in box</h1>
+        <div id="fruit" class="items">
+            <h3>Fruit</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, praesentium libero itaque deleniti mollitia nihil blanditiis provident maxime quibusdam nemo.</p>
+        </div>   
+        <div id="computer" class="items">
+            <h3>Computer</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore rem neque ea, quos minima cumque!</p>
+        </div>
+        <div id="stationary" class="items">
+            <h3>Stationary</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore fugit vero nam, et dolore atque nihil totam iusto!</p>
+        </div>
+
+        <div class="items">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati repudiandae velit, voluptatem qui dolorem dolore officiis a optio libero voluptatum sint quidem, ipsam voluptate labore distinctio veritatis mollitia aliquam tempora et ratione quod maxime eveniet! Ut alias nesciunt debitis similique.</div>
+    </div>
+</body>
+</html>
